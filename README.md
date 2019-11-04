@@ -1,5 +1,5 @@
 #clone项目到本地
-
+git clone https://github.com/wuaidongfang/vue-users-management.git
 #安装依赖
 npm install
 #启动后台模拟数据
